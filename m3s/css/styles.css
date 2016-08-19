@@ -25,6 +25,9 @@ body {
   margin-left: 10px;
   margin-right: 10px;
 }
+.text {
+  margin-bottom: 20px;
+}
 /** ---Header---**/
 #header-nav {
   background-color: red;
