@@ -60,10 +60,8 @@ for (var name in names) {
   // name in the loop.
   if (firstLetter == 'j') {
      byeSpeaker.speak(names[name]);
-     console.log(firstLetter);
   } else {
      helloSpeaker.speak(names[name]);
-     console.log(firstLetter);
   }
 }
 })(window);
